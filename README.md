@@ -7,5 +7,6 @@ to do:
   - [ ] Wiki Home page
   - [ ] Wiki Sidebar Navigation
   - [ ] Categorized Wiki Layout
+  - [ ] Tutorial Style Guide
   - [ ] ...
 &nbsp;
